@@ -1,0 +1,27 @@
+Sprint 3 Report (4/5/2026 - 5/2/2026)
+What’s New:
+•	Bug fixes
+•	Mic selector for TTS
+Work Summary:
+We fixed bugs pertaining to the TTS system. Before, it would throw an error after the end of each message but now that should be fixed. Also, the server would sometimes delete its instance mid use of the application but that should be fixed with a little bit of optimization.
+
+Unfinished Work:
+Honestly, we didn’t manage to get the full application done but we do have a minimum working product that runs locally and acts as a chatbot. During the IEEE Hardware Hackathon we incorporated wake words and application manipulation via voice commands. We couldn’t get it integrated into Watson in time for sprint 3 but we do have the software.
+
+Code Files for Review:
+•	Main Application
+•	ReadME 
+
+Retrospective Summary:
+What went well:
+•	Change to the UI
+•	Optimization of the model
+•	Better TTS
+•	Communication
+
+Here’s What We’d Like to Improve:
+•	Allocate more time to testing
+•	More debugging hours need to be put in
+•	More time dedicated to project prior to later sprints when we all have very limited time to work on the projects
+
+Video demonstration: https://youtu.be/JlHLWexAW-M
